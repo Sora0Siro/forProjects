@@ -1,0 +1,19 @@
+F:\Related\NM\LabNM_1\LabNM_1\bin\Debug\LabNM_1.exe.config
+L:\Related\NM\LabNM_1\LabNM_1\bin\Debug\LabNM_1.exe.config
+L:\Related\NM\LabNM_1\LabNM_1\bin\Debug\LabNM_1.exe
+L:\Related\NM\LabNM_1\LabNM_1\bin\Debug\LabNM_1.pdb
+L:\Related\NM\LabNM_1\LabNM_1\obj\Debug\LabNM_1.csprojResolveAssemblyReference.cache
+L:\Related\NM\LabNM_1\LabNM_1\obj\Debug\LabNM_1.Form1.resources
+L:\Related\NM\LabNM_1\LabNM_1\obj\Debug\LabNM_1.Properties.Resources.resources
+L:\Related\NM\LabNM_1\LabNM_1\obj\Debug\LabNM_1.csproj.GenerateResource.Cache
+L:\Related\NM\LabNM_1\LabNM_1\obj\Debug\LabNM_1.exe
+L:\Related\NM\LabNM_1\LabNM_1\obj\Debug\LabNM_1.pdb
+F:\Numeric Methods\LabNM_1\LabNM_1\bin\Debug\LabNM_1.exe.config
+F:\Numeric Methods\LabNM_1\LabNM_1\obj\Debug\LabNM_1.exe
+F:\Numeric Methods\LabNM_1\LabNM_1\obj\Debug\LabNM_1.pdb
+F:\Numeric Methods\LabNM_1\LabNM_1\bin\Debug\LabNM_1.exe
+F:\Numeric Methods\LabNM_1\LabNM_1\bin\Debug\LabNM_1.pdb
+F:\Numeric Methods\LabNM_1\LabNM_1\obj\Debug\LabNM_1.csprojResolveAssemblyReference.cache
+F:\Numeric Methods\LabNM_1\LabNM_1\obj\Debug\LabNM_1.Form1.resources
+F:\Numeric Methods\LabNM_1\LabNM_1\obj\Debug\LabNM_1.Properties.Resources.resources
+F:\Numeric Methods\LabNM_1\LabNM_1\obj\Debug\LabNM_1.csproj.GenerateResource.Cache
